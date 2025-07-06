@@ -1,0 +1,1 @@
+import{_ as t,c as o,a as s,o as a}from"./index-CdMYez3x.js";const c={};function n(r,e){return a(),o("div",null,e[0]||(e[0]=[s("h1",{class:"title"},"敬请期待",-1)]))}const l=t(c,[["render",n],["__scopeId","data-v-98f672b8"]]);export{l as default};

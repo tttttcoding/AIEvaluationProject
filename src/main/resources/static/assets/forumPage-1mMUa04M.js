@@ -1,0 +1,1 @@
+import{_ as c,c as e,o}from"./index-Bn9PkK3f.js";const s={},t={class:"forum-page"};function a(r,_){return o(),e("div",t,"敬请期待")}const f=c(s,[["render",a],["__scopeId","data-v-c3b5cf31"]]);export{f as default};

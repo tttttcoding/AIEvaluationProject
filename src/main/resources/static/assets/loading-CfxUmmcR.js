@@ -1,0 +1,1 @@
+import{_ as o,b as s,e as t,o as n}from"./index-Bc0iVnwy.js";const a={},r={class:"loader"};function c(d,e){return n(),s("div",r,e[0]||(e[0]=[t("div",{class:"justify-content-center jimu-primary-loading"},null,-1)]))}const _=o(a,[["render",c],["__scopeId","data-v-dfb35374"]]);export{_ as L};

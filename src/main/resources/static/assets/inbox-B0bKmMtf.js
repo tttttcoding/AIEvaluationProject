@@ -1,0 +1,1 @@
+import{_ as t,b as o,e as s,o as a}from"./index-Bc0iVnwy.js";const n={};function r(c,e){return a(),o("div",null,e[0]||(e[0]=[s("h1",{class:"title"},"敬请期待",-1)]))}const d=t(n,[["render",r],["__scopeId","data-v-abd191b8"]]);export{d as default};

@@ -1,0 +1,1 @@
+import{d as t,r as l}from"./index-uf0FIciC.js";const c=t("selectTool",()=>{const e=l([]);return{selectedTool:e,selectTool:o=>{e.value=o,localStorage.setItem("selectedTool",JSON.stringify(e.value))}}});export{c as u};

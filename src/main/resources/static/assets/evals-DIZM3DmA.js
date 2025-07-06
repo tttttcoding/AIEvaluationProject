@@ -1,0 +1,1 @@
+import{_ as s,e as t,f as a,o}from"./index-uf0FIciC.js";const r={};function c(n,e){return o(),t("div",null,e[0]||(e[0]=[a("h1",{class:"title"},"敬请期待",-1)]))}const _=s(r,[["render",c],["__scopeId","data-v-2567a142"]]);export{_ as default};

@@ -1,0 +1,1 @@
+import{_ as s,c,a as o,o as t}from"./index-DU-Sq44Q.js";const a={},r={class:"crouse-page"};function n(_,e){return t(),c("div",r,e[0]||(e[0]=[o("h1",{class:"title"},"敬请期待",-1)]))}const f=s(a,[["render",n],["__scopeId","data-v-c977df1f"]]);export{f as default};

@@ -1,0 +1,1 @@
+import{_ as t,b as o,e as s,o as a}from"./index-ZCHI1N3d.js";const c={};function n(r,e){return a(),o("div",null,e[0]||(e[0]=[s("h1",{class:"title"},"敬请期待",-1)]))}const d=t(c,[["render",n],["__scopeId","data-v-5c81dba0"]]);export{d as default};

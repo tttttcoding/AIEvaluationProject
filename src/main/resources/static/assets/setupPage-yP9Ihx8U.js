@@ -1,0 +1,1 @@
+import{_ as t,c as s,b as a,o}from"./index-Bn9PkK3f.js";const c={};function r(n,e){return o(),s("div",null,e[0]||(e[0]=[a("h1",{class:"title"},"敬请期待",-1)]))}const l=t(c,[["render",r],["__scopeId","data-v-6b624601"]]);export{l as default};

@@ -1,0 +1,2 @@
+# AIEvaluationProject
+基于SpringBoot的AI集成评价项目，辅助学校教学，前端@AlightSoulmate
